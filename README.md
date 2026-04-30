@@ -1,10 +1,10 @@
 # cybersecurity-portfolio
 This repository showcases hands-on cybersecurity projects focused on real-world security operations and threat detection. It is built as a part of my transition into cybersecurity, with practical work in:
-SIEM log analysis using Splunk
-Network trafffic analysis using Wireshark
-Vulnerability assessment using NMap and Nessus
-Incident response simulations and reporting
-Python-based security automation tools
+1. SIEM log analysis using Splunk
+2. Network trafffic analysis using Wireshark
+3. Vulnerability assessment using NMap and Nessus
+4. Incident response simulations and reporting
+5. Python-based security automation tools
 
 Each project demonstartes my ability to:
 1. Analyze logs and detect suspicious activity
