@@ -33,24 +33,6 @@ The repository may include:
   - Sigma Rules
   - Zeek
   - Suricata
-
----
-
-## 🧪 Lab Architecture
-
-```text
-+------------------+
-| Attack Machine   |
-| Kali Linux       |
-+--------+---------+
-         |
-         v
-+------------------+
-| Target System    |
-| Windows/Linux VM |
-+--------+---------+
-         |
-         v
 +------------------+
 | SIEM Server      |
 | Wazuh / Splunk   |
